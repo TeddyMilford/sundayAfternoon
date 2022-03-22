@@ -1,4 +1,3 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
-document.querySelector("body").appendChild(h2);
+const gitTest = "This is just a test. Please just be this line.";
 
+const prayer = "Please God - let this commit to git.";
