@@ -26,7 +26,7 @@ Modal Stuff
   width: 50%;
 
   background-color: #7c79a9;
-  padding: 6rem;
+  padding: 3rem;
   border-radius: 5px;
 }
 
@@ -38,6 +38,11 @@ Modal Stuff
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(3px);
+}
+
+#exit {
+  margin-left: 95%;
+  cursor: pointer;
 }
 
 /*
